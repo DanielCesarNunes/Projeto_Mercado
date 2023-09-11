@@ -1,0 +1,1 @@
+Projeto que simula as ações de cadastro e compras em um mercado virtual.
